@@ -52,4 +52,4 @@ Manifestamos nuestro compromiso con la política de rechazo a la violencia de g�
 > [!IMPORTANT]
 > Los puntos aquí mostrados se encuentran con mayor detalle en el link adjunto.
 
-### BeeDevelopers se compromete a seguir los protocolos para atender la violencia de género establecidos por la Universidad de Guanajuato, capacitar a todo el comité directivo sobre estos procesos y apoyar a víctimas involucradas según nuestros medios lo permitan. **Reiteramos nuestras limitaciones en atender estos casos más allá de las consecuencias internas en la comunidad, siempre serán dirigidos al departamento responsable de la Universidad de Guanajuato, UGénero y su titular.**###
+### BeeDevelopers se compromete a seguir los protocolos para atender la violencia de género establecidos por la Universidad de Guanajuato, capacitar a todo el comité directivo sobre estos procesos y apoyar a víctimas involucradas según nuestros medios lo permitan. **Reiteramos nuestras limitaciones en atender estos casos más allá de las consecuencias internas en la comunidad, siempre serán dirigidos al departamento responsable de la Universidad de Guanajuato, UGénero y su titular.** ###
