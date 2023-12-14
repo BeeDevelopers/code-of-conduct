@@ -30,6 +30,8 @@ Los siguientes principios son esperados por toda persona que pertenezca a BeeDev
 - Compartir y comunicar información valiosa según las necesidades de la comunidad; de manera efectiva, sin ego ni prejuicios ante nadie.
 - Promover una cultura de colaboración positiva con otras comunidades dentro de nuestro entorno, aportar y aprender siempre de dichas colaboraciones.
 
+Nuestro objetivo no debe ser "ganar" todos los desacuerdos o discusiones. Un objetivo más productivo es **estar abierto a ideas que mejoren las nuestras**. Esforzarse por ser un ejemplo de pensamiento integrador. _**"Ganamos cuando las diferentes perspectivas enriquecen y fortalecen nuestro trabajo.**_
+
 ## Sobre la violencia de género
 Reivindicamos la dignidad de las personas en todos los ámbitos de la vida y reconocemos la violencia que sufren, en mayor grado las mujeres, puede parecer invisible; que en las situaciones de violencia de género podrían no ser identificadas como tales y esto hacer persisitir estereotipos sexistas que tienden a revicitimizar a las afectadas, lo que dificulta que éstas denuncien la situación que padecen.
 
@@ -50,6 +52,80 @@ Manifestamos nuestro compromiso con la política de rechazo a la violencia de g�
 10. Fomentaremos el conocimiento y puesta en práctica de este decálogo  
 
 > [!IMPORTANT]
-> Los puntos aquí mostrados se encuentran con mayor detalle en el link adjunto.
+> **BeeDevelopers se compromete a adherirse a los protocolos establecidos por la Universidad de Guanajuato para abordar casos de violencia de género**. Nos comprometemos a capacitar a todo el comité directivo en relación con estos procesos y a brindar apoyo a las víctimas en la medida en que nuestros recursos lo permitan. Es importante señalar que, dada nuestra capacidad y alcance, **nuestras acciones se limitarán a abordar las repercusiones internas en la comunidad**. En situaciones más allá de nuestro ámbito de actuación, remitiremos directamente los casos al departamento correspondiente de la Universidad de Guanajuato, UGénero, y a su responsable.
 
-### BeeDevelopers se compromete a seguir los protocolos para atender la violencia de género establecidos por la Universidad de Guanajuato, capacitar a todo el comité directivo sobre estos procesos y apoyar a víctimas involucradas según nuestros medios lo permitan. **Reiteramos nuestras limitaciones en atender estos casos más allá de las consecuencias internas en la comunidad, siempre serán dirigidos al departamento responsable de la Universidad de Guanajuato, UGénero y su titular.** ###
+## Comportamientos no permitidos
+Los sigueintes comportamientos se consideran inaceptables bajo los siguientes principios:
+- Uso de lenguaje o imágenes sexualizados y atención o insinuaciones sexuales no deseadas.
+- Trolling, comentarios insultantes/derogatorios y ataques personales o políticos
+- Acoso público o privado
+- Publicación de información privada de otros, como una dirección física o electrónica, sin permiso explícito
+- Otras conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional
+- Desestimar o atacar solicitudes orientadas a la inclusión
+
+### Lenguaje despectivo:
+Cualquier tipo de lenguaje hiriente o dañino relacionado con:
+
+- Antecedentes
+- Situación familiar
+- Género
+- Identidad o expresión de género
+- Estado civil
+- Sexo
+- Orientación sexual
+- Lengua materna
+- Edad
+- Capacidad
+- Raza y/o etnia
+- Casta
+- Origen nacional
+- Situación socioeconómica
+- Religión
+- Situación geográfica
+- Otros atributos
+
+no es aceptable. Esto incluye **referirse deliberadamente a alguien por un género con el que no se identifica, y/o cuestionar la legitimidad de la identidad de género de una persona. Si no estás seguro de si una palabra es despectiva, no la utilices**. Esto también incluye la discriminación sutil y/o indirecta repetida; **cuando se te pida que pares, detén el comportamiento en cuestión.**
+
+### Comportamiento disruptivo
+No se tolerarán comportamientos disruptivos en eventos, actividades, foros o reuniones, incluidas charlas y presentaciones. Esto incluye:
+- "Hablar por encima" o "interrumpir" a las personas talleristas(speakers).
+- Beber alcohol en exceso o consumir drogas recreativas en exceso, o incitar a otros a hacerlo.
+- Hacer comentarios despectivos sobre quienes se abstienen de consumir alcohol u otras sustancias, incitar a la gente a tomar, hablar de su abstinencia o preferencias a los demás, presionarles físicamente o mediante burlas.
+- Influir de cualquier otro modo en las acciones de la multitud que provoquen hostilidad en el entorno.
+
+### Influir en comportamientos inaceptables
+Trataremos el hecho de influir o dirigir tales actividades de la misma manera que tratamos las actividades en sí, y por tanto se aplicarán las mismas consecuencias.
+
+## Consecuencias del comportamiento inaceptable
+No se tolerará el inclumplimiento de ninguna persona de la comunidad o participante de alguna actividad que organice o colabore BeeDevelopers, incluídas las personas del comité directivo. Los esfuerzos intencionados para expluir personas (excepto como parte de una consecuencia de los puntos mostrados u otra acción oficial) de las actividades de BeeDevelopers no son aceptables y serán tratados adecuadamente.
+
+Toda persona a la que se pida que abandone un comportamiento inaceptable deberá obedecer inmediatamente. La violación de estas directrices puede dar lugar a que se pida a alguien que abandone un evento o espacio en línea, ya sea temporalmente o mientras dure el evento, o a que se le prohíba participar en espacios o futuros eventos y actividades a perpetuidad.
+
+Cualquier persona que abuse del proceso de denuncia será considerado infractor de estas directrices y estará sujeto a las mismas consecuencias. No se aceptarán ni tolerarán las denuncias falsas, especialmente con fines de represalia o exclusión.
+
+El comité directivo tiene el derecho y responsabilidad (a través de un acuerdo democrático) de eliminar comentarios u otras acciones u objetos que no se apeguen al Código de Conducta, o suspender temporal o permanentemente a cualquier miembro por otros comportamientos que consideren inapropiados, amenzadores, ofensivos o perjudiciales.
+
+## Reportes
+Si crees que está experimentando un comportamiento inaceptable que no será tolerado según lo descrito anteriormente, póngase en contacto con el comité directivo por medio del formulario de reportes o enviando un correo electrónico a beedevelopers@gmail.com . El responsable de las directrices de participación comunitaria se encargará de clasificar las denuncias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
