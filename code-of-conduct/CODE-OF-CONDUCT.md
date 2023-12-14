@@ -115,6 +115,7 @@ Si crees que está experimentando un comportamiento inaceptable que no será tol
 Este código de conducta es una adaptación de:
 - [CodeNewbie Community 🌱 Code of Conduct](https://community.codenewbie.org/code-of-conduct)
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
 El contenido original forma parte de las bases que fueron adaptadas a las necesidades y contextos sobre los que se desarrolla nuestra comunidad 💛.
 
 ## Modificaciones
