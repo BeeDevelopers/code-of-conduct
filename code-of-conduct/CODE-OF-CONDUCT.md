@@ -111,9 +111,14 @@ Si crees que está experimentando un comportamiento inaceptable que no será tol
 >[!NOTE]
 > La recopilación de información para el reporte solo se llevará a cabo con el propósito de dar seguimiento. Su confidencialidad y seguridad son nuestra máxima prioridad.
 
+## Reconocimiento
+Este código de conducta es una adaptación de:
+- [CodeNewbie Community 🌱 Code of Conduct](https://community.codenewbie.org/code-of-conduct)
+- [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+El contenido original forma parte de las bases que fueron adaptadas a las necesidades y contextos sobre los que se desarrolla nuestra comunidad 💛.
 
-
-
+## Modificaciones
+BeeDevelopers puede modificar las directrices de vez en cuando y también puede variar los procedimientos que establece cuando sea apropiado en un caso particular. Su aceptación del cumplimiento de las directrices se considerará como su aceptación de cualquier modificación de las mismas.
 
 
 
