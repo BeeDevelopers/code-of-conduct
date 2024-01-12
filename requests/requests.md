@@ -28,7 +28,7 @@ Aunque puede parecer algo muy obvio, dar detalles sobre los motivos de tu activi
 
 Es importante que creas en tu idea, analices sus puntos positivos y los plasmes de manera breve, con una redacción formal y clara, toma en cuenta que las autoridades universitarias o cualquier destinatario, usualmente tienen otras actividades pendientes además de revisar solicitudes. "Vende" tu idea como la mejor, con honestidad y resaltando siempre el beneficio que trae a la comunidad en general.
 
->![NOTE]
+>[!NOTE]
 > Gracias al Enlace de Impulso Estudiantil Aarón Santibañez y al Ing. Jonathan Duarte por compartir las plantillas mostradas 🐝💛.
 
 
