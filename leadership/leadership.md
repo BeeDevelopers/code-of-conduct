@@ -8,6 +8,9 @@ Cuando te dispones a ser una persona que lidere, tienes que tener en cuenta que 
 
 Después de todo, cuando lideras, eres una persona resiliente, empática, honesta, respetuosa, comprometida, inclusiva, analítica y segura de sí misma. Desarrolla las habilidades y establece un equilibrio entre tu vida personal y la académica. Y no te preocupes si suena muy difícil 🤯, es solo para que tengas una perspectiva más amplia de lo hasta ahora, hemos aprendido sobre el liderazgo en la comunidad. Lleva el liderazgo a tu vida y acá te dejo unos consejos que espero te ayuden a comprender más estos temas.
 
+> [!TIP]
+> La retroalimentación, en qué momentos darla y cómo, es una de las partes más importantes en un equipo para mejorar. Mantén tu mente abierta para escuchar nuevas ideas en todo momento.
+
 ## Recursos
 
 ### Libros:
