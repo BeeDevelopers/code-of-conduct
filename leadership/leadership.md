@@ -2,6 +2,8 @@
 
 Algunos consejos y recursos que tal vez pueda ayudarte a influir positivamente en tus equipos.
 
+Cuando te nutres de diferentes perspectivas sobre liderazgo y contenidos sobre el tema por gusto, de verdad es porque disfrutas lo que haces y sin duda, es un punto que marca la diferencia en cómo percibes las cosas que ocurren dentro de tu comunidad e incluso, fuera de ella.
+
 ## Recursos
 
 ### Libros:
