@@ -16,5 +16,5 @@ El objetivo de este proyecto es documentar y **compartir los procesos y estructu
 5. [Código de conducta](code-of-conduct/CODE-OF-CONDUCT.md)
 
 Si cumples con los requisitos y deseas unirte a la comunidad, ¡Adelante!
-![Flyer de inscripción](https://scontent.fbjx1-1.fna.fbcdn.net/v/t39.30808-6/344835962_236189065725693_3567069763239728418_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGsxe14tWyEuumt7X99JuXTaDmazsRn8wtoOZrOxGfzC1VK8G2tTNHLj9iNWF_yxSV77w_52MMvz88gyzhLIBfK&_nc_ohc=xE5AdK80qMMAX-5xO96&_nc_ht=scontent.fbjx1-1.fna&oh=00_AfBQOeY92nH7b70VapdPa_kVpIDYIzNqOtP33mo2Xp9K4w&oe=65909680)
+![Flyer de inscripción](https://scontent.fbjx1-1.fna.fbcdn.net/v/t39.30808-6/344835962_236189065725693_3567069763239728418_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGsxe14tWyEuumt7X99JuXTaDmazsRn8wtoOZrOxGfzC1VK8G2tTNHLj9iNWF_yxSV77w_52MMvz88gyzhLIBfK&_nc_ohc=G8DaV51aXzgAX_LM-xj&_nc_ht=scontent.fbjx1-1.fna&oh=00_AfAAbrhiIvE91kKRRoPiDp9-1ED2z28Vkq2CeOPMijrdaQ&oe=65AA4BC0)
 
